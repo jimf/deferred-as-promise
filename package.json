@@ -1,6 +1,6 @@
 {
   "name": "deferred-as-promise",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Wrap a deferred as a native Promise",
   "main": "index.js",
   "scripts": {

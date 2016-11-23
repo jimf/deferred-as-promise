@@ -29,6 +29,14 @@ deferredAsPromise($.ajax({
 });
 ```
 
+## Changelog
+
+#### 2.0.0
+- Resolve/reject an array when deferred is resolved/rejected with multiple values
+
+#### 1.0.0
+- Initial release
+
 ## License
 
 MIT
